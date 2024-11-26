@@ -1,2 +1,1 @@
-# samuelschumacher.github.io
 helloworld
