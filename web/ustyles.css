@@ -3,7 +3,7 @@ a.button {
   border: 1px outset buttonborder;
   border-radius: 3px;
   color: buttontext;
-  background-color: palegoldenrod;
+  background-color: buttonface;
   text-decoration: none;
 }
 body {
